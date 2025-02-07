@@ -1,4 +1,4 @@
-// app/page.js (Next.js 13+ with App Router)
+
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import './styles/Home.css';
